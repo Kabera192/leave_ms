@@ -51,7 +51,7 @@ This is a Spring Boot backend for a Leave Management System, built for Africa HR
 
 ## Prerequisites
 
-- **Java**: JDK 21
+- **Java**: JDK 17
 - **Maven**: 3.8.x or higher
 - **MySQL**: 8.0.3x or higher
 - **Docker**: For containerized deployment
